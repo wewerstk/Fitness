@@ -785,7 +785,7 @@ body {
   overflow: hidden;
 }
 .ideas__content {
-  padding: 244px 0px;
+  padding: 244px 15px;
 }
 .ideas__content .ideas__title {
   margin-bottom: 15px;
