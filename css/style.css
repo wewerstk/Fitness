@@ -963,6 +963,14 @@ body {
 }
 
 @media (max-width: 1100px) {
+  .ideas .right-down__block,
+.ideas .left-down__block {
+    bottom: -100%;
+  }
+
+  .footer .red-angle {
+    display: none;
+  }
   .footer__inner {
     display: block;
   }
