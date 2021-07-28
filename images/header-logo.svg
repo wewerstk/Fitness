@@ -1,0 +1,31 @@
+<svg id="Header:_Logo" data-name="Header: Logo" xmlns="http://www.w3.org/2000/svg" width="153.5" height="52" viewBox="0 0 153.5 52">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        fill-opacity: 0;
+        stroke: #fd634e;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        font-size: 24px;
+        font-family: AvenirNextRoundedStd;
+        font-weight: 300;
+        text-transform: uppercase;
+      }
+
+      .cls-3 {
+        fill: #a2ca28;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M82,71.417a15.006,15.006,0,0,1-30,0C52,63.359,67,38.99,67,38.99S82,63.359,82,71.417Z" transform="translate(-49.5 -36.5)"/>
+  <text id="fitness" class="cls-2" x="44.524" y="25.665">fitness</text>
+  <rect class="cls-3" x="46.5" y="32.5" width="38" height="3"/>
+</svg>
